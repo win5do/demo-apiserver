@@ -1,0 +1,5 @@
+apiVersion: pet.demo.com/ext-apiserver/v1
+kind: Cat
+metadata:
+  name: cat-example
+spec:
